@@ -11,7 +11,6 @@ MarkupSafe==1.1.1
 mccabe==0.6.1
 pylint==2.4.3
 pymongo==3.10.0
-PyMySQL==0.9.3
 six==1.13.0
 Werkzeug==0.16.0
 wrapt==1.11.2
